@@ -1,0 +1,14 @@
+#footerBuyPrint {
+	position:fixed;
+	left:0px;
+	bottom:0px;
+	height:350px;
+	width:100%;
+	display: none;
+	z-index: 2;
+	/* The following styles are optional, the ones above are not */
+	padding: 100px;
+	background: #8f8567;
+	border-top: 5px solid #ededed;
+	text-align: center;
+}
